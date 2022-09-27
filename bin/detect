@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# bin/detect <build-dir>
+
+
+echo "kubectl krew"
+exit 0
